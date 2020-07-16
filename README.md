@@ -27,13 +27,13 @@ Hi there, I'm Mehdi Mabrouki, a Kaggle Competitions Expert ( ranked top 1% world
 - 🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Reinforcement Learning, etc..;
 - 💼 I’m pursuing a Bachelor's. degree in Software Engineering;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via ninomyemail@gmail.com to reach me.
+- 📫 Please email via mabrouki.mehdi25@gmail.com to reach me.
 - 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1q_ATZsO9c488VUxj1JuU--ZYe9IEqp4-/view?usp=sharing) to get more info.
 
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pytorch/pytorch.png"></code>
+<code><img height="20" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -48,4 +48,4 @@ Hi there, I'm Mehdi Mabrouki, a Kaggle Competitions Expert ( ranked top 1% world
 
 ![Mehdi's github stats](https://github-readme-stats.vercel.app/api?username=callmemehdi&show_icons=true&hide_border=true)
 
-⭐️ From [LovelyBuggies](https://github.com/CallmeMehdi)
+⭐️ From [CallmeMehdi](https://github.com/CallmeMehdi)
