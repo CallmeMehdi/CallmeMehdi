@@ -25,10 +25,10 @@ Hi there, I'm **Mehdi Mabrouki**, a **Kaggle Competitions Expert** ( Ranked Top 
 - 👨🏽‍💻 I’m currently a Fellow in [Major League Hacking](https://fellowship.mlh.io/);
 - 🌱 I’m currently learning Deep Reinforcement Learning; 
 - 🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Reinforcement Learning, etc..;
-- 💼 I’m pursuing a Bachelor's degree in Software Engineering;
+- 💼 I’m searching for a new job.
 - 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via mabrouki.mehdi25@gmail.com to reach me.
-- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1q_ATZsO9c488VUxj1JuU--ZYe9IEqp4-/view?usp=sharing) to get more info.
+- 📫 Please email via daniel.roberto1991@hotmail.com to reach me.
+- 📝 
 
 
 **Languages and Tools:**  
