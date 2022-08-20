@@ -16,7 +16,7 @@
 <br />
 <br />
 
-Hi there, I'm **Mehdi Mabrouki**, a **Kaggle Competitions Expert** ( Ranked Top 1% Worldwide 🌍 ) and a **Software Engineering student** 🚀 from Tunisia, currently, I'm a Community Team Member 🙍🏽‍♂️ [@CallmeMehdi](https://github.com/CallmeMehdi), Kaggler 👨🏽‍💻 [@Kaggle](https://www.kaggle.com/mehdimabrouki), and an Artificial Intelligence intern 👨🏽‍💼. 
+Hi there, I'm **Mehdi Mabrouki**, a **Software Engineering student** 🚀 and a **Kaggle Competitions Expert** ( Ranked Top 1% Worldwide 🌍 )  from Tunisia, currently, I'm a Community Team Member 🙍🏽‍♂️ [@CallmeMehdi](https://github.com/CallmeMehdi), Kaggler 👨🏽‍💻 [@Kaggle](https://www.kaggle.com/mehdimabrouki), and an Machine Learning engineer 👨🏽‍💼. 
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
@@ -25,7 +25,7 @@ Hi there, I'm **Mehdi Mabrouki**, a **Kaggle Competitions Expert** ( Ranked Top 
 - 👨🏽‍💻 Alumni Fellow in [Major League Hacking](https://fellowship.mlh.io/);
 - 🌱 Alumni [Google Summer of Code](https://summerofcode.withgoogle.com) Open-Source Developer with the [TensorFlow](https://www.tensorflow.org/) organization; 
 - 🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Reinforcement Learning, etc..;
-- 💼 I’m pursuing a Bachelor's degree in Software Engineering;
+- 💼 Sotfware Engineer;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via mabrouki.mehdi25@gmail.com to reach me.
 - 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1l7D4dUCSAGithmscqf1WlzrVybN20eyr/view?usp=sharing) to get more info.
